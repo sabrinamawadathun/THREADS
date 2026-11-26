@@ -60,13 +60,13 @@ Aplikasi ini juga menerapkan Thread agar proses database berjalan di background 
 ## 7. Screenshot Aplikasi
 
 ### Tampilan Utama
-![Tampilan Utama](screenshots/1.png)
+![Tampilan Utama](screenshot/1.png)
 
 ### Proses Penyimpanan
-![Proses Saving](screenshots/2.png)
+![Proses Saving](screenshot/2.png)
 
 ### Hasil Data Mahasiswa
-![Hasil Data Mahasiswa](screenshots/3.png)
+![Hasil Data Mahasiswa](screenshot/3.png)
 
 ## 8. Kesimpulan
 
